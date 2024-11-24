@@ -1,4 +1,4 @@
-# Student-Grading-System
+# Student Grading System
 
 ## Project Title
 Student Grading System with Login
